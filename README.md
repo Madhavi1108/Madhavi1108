@@ -17,8 +17,7 @@
 - **Data Science** projects that involve data analysis, visualization, and learning how to extract insights from real-world data.
 
 ## 📫 How to Reach Me
-- Email: madhavi1108@example.com
-- LinkedIn: [linkedin.com/in/madhavi](https://linkedin.com/in/madhavi)
+- Email: madhavi09307@gmail.com
 
 ## 😄 Pronouns
 - She/Her
