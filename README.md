@@ -87,7 +87,6 @@ I enjoy building efficient solutions, understanding systems at a deeper level, a
 ---
 
 ## 📫 Contact
-## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/madhavi-naik-007sharanam/" target="_blank">
