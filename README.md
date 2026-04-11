@@ -40,9 +40,11 @@ I enjoy building efficient solutions, understanding systems at a deeper level, a
 
 ## 📊 GitHub Stats
 
-![Madhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhavi1108&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi1108&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhavi1108&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi1108&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
