@@ -86,8 +86,3 @@ I enjoy building efficient solutions, understanding systems at a deeper level, a
 
 ---
 
-## ⚡ Additional Info
-- Pronouns: She/Her  
-- Open to internships and learning opportunities in **AI, ML & Data Science**  
-
----
