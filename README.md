@@ -87,7 +87,16 @@ I enjoy building efficient solutions, understanding systems at a deeper level, a
 ---
 
 ## 📫 Contact
-📧 madhavi09307@gmail.com  
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/madhavi-naik-007sharanam/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:madhavi09307@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
