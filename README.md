@@ -38,16 +38,6 @@ I enjoy building efficient solutions, understanding systems at a deeper level, a
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhavi1108&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi1108&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Madhavi1108&theme=tokyonight)
