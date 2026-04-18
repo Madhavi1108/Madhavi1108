@@ -5,7 +5,7 @@ I am an aspiring developer with a strong foundation in **C Programming** and **P
 
 I enjoy building efficient solutions, understanding systems at a deeper level, and applying data-driven approaches to solve real-world problems.
 
----
+--- 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
