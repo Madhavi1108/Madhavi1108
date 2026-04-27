@@ -8,7 +8,7 @@ I enjoy building efficient solutions, understanding systems at a deeper level, a
 ---  
 ## 🛠️ Tech Stack  
   
-### 💻 Programming Languages
+### 💻 Programming Languages 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
